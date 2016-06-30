@@ -1,0 +1,12 @@
+1. How many elements does this xml file have?
+- 8
+
+2.What is a namespace in this example?
+- manifest xmlns:android="http://sch......
+
+3.Name parent and children elements.
+- Parent:application
+- children: activity, action 
+
+4. Find and name empty elements (the ones that do not have content).
+- <activity android:name=".InformationActivity" />

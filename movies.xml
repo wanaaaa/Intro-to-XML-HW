@@ -1,0 +1,42 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ <movie_collection xmlns:collection="http://movies.com" >
+	<movie id="1">
+		<title></title>
+		<description></description>
+		<showtimes>
+			<one></one>
+			<two></two>
+			<three></three>
+		</showtimes>
+		<goodOrnot good="true"/>
+	</movie> 	
+	<movie id="2">
+				<title></title>
+		<description></description>
+		<showtimes>
+			<one></one>
+			<two></two>
+			<three></three>
+		</showtimes>
+		<goodOrnot good="true"/>
+	</movie> 	
+	<movie id="3">
+				<title></title>
+		<description></description>
+		<showtimes>
+			<one></one>
+			<two></two>
+			<three></three>
+		</showtimes>
+		<goodOrnot good="true"/>
+	</movie> 	
+	<movie id="4">
+				<title></title>
+		<description></description>
+		<showtimes>
+			<one></one>
+			<two></two>
+			<three></three>
+		</showtimes>
+		<goodOrnot good="true"/>
+	</movie> 	
